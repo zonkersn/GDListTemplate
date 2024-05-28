@@ -1,6 +1,6 @@
 {
     "id": 4763659,
-    "name": "SampleLevel1",
+    "name": "ufo challenge",
     "creators": ["CookieHard"],
     "verifier": "zonkers",
     "verification": "https://youtu.be/bKjoe0Nj5xc",
@@ -11,7 +11,7 @@
             "user": "",
             "link": "",
             "percent": "", 
-            "fps": "300"
+            "fps": ""
         }
     ]
 }
