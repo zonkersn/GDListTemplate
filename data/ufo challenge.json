@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": "", 
-            "fps": ""
+            "user": "Artificial Bagel",
+            "link": "https://youtu.be/iOKYlIqwu78",
+            "percent": "100", 
+            "hz": "60"
         }
     ]
 }
