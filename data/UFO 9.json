@@ -13,6 +13,13 @@
             "link": "https://youtu.be/xnL5C2RK9zg",
             "percent": "100", 
             "hz": "240"
+        },
+        {
+            "user": "empanada",
+            "mobile": true,
+            "link": "https://youtu.be/SJIcMO-IZGk?si=iIz0s5n-UrsMTLG8",
+            "percent": "100", 
+            "hz": "60"
         }
     ]
 }
